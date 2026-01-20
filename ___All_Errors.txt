@@ -1,0 +1,285 @@
+CorrelationId: fb035977-8c12-4063-90fa-cf210640ca02
+UTC DateTime: 01/14/2026 07:00:30
+
+The following files/folders have not been downloaded
+0. academia/christine-project-2023/pill-dispenser-app/node_modules/@popperjs/core/dist/esm/types.js
+1. academia/christine-project-2023/pill-dispenser-app/node_modules/@popperjs/core/lib/types.js
+2. academia/christine-project-2023/pill-dispenser-app/node_modules/fast-xml-parser/src/xmlbuilder/prettifyJs2Xml.js
+3. academia/christine-project-2023/pill-dispenser-app/node_modules/mime/.npmignore
+4. academia/christine-project-2023/pill-dispenser-app/node_modules/tr46/lib/.gitkeep
+5. academia/christine-project-2023/pillpal/.git/FETCH_HEAD
+6. academia/christine-project-2023/pillpal/android/.gradle/7.5/gc.properties
+7. academia/christine-project-2023/pillpal/android/.gradle/7.5/dependencies-accessors/gc.properties
+8. academia/christine-project-2023/pillpal/android/.gradle/vcs-1/gc.properties
+9. academia/christine-project-2023/pillpal/build/app/intermediates/dex_archive_input_jar_hashes
+10. academia/christine-project-2023/pillpal/build/app/intermediates/dex_number_of_buckets_file
+11. academia/christine-project-2023/pillpal/build/app/intermediates/duplicate_classes_check
+12. academia/christine-project-2023/pillpal/build/app/intermediates/external_file_lib_dex_archives
+13. academia/christine-project-2023/pillpal/build/app/intermediates/external_libs_dex_archive
+14. academia/christine-project-2023/pillpal/build/app/intermediates/external_libs_dex_archive_with_artifact_transforms
+15. academia/christine-project-2023/pillpal/build/app/intermediates/flutter
+16. academia/christine-project-2023/pillpal/build/app/intermediates/generated_proguard_file
+17. academia/christine-project-2023/pillpal/build/app/intermediates/incremental
+18. academia/christine-project-2023/pillpal/build/app/intermediates/javac
+19. academia/christine-project-2023/pillpal/build/app/intermediates/legacy_multidex_aapt_derived_proguard_rules
+20. academia/christine-project-2023/pillpal/build/app/intermediates/legacy_multidex_main_dex_list
+21. academia/christine-project-2023/pillpal/build/app/intermediates/linked_res_for_bundle
+22. academia/christine-project-2023/pillpal/build/app/intermediates/lint_vital_intermediate_text_report
+23. academia/christine-project-2023/pillpal/build/app/intermediates/lint_vital_partial_results
+24. academia/christine-project-2023/pillpal/build/app/intermediates/lint_vital_return_value
+25. academia/christine-project-2023/pillpal/build/app/intermediates/lint-cache
+26. academia/christine-project-2023/pillpal/build/app/intermediates/manifest_merge_blame_file
+27. academia/christine-project-2023/pillpal/build/app/intermediates/merged_art_profile
+28. academia/christine-project-2023/pillpal/build/app/intermediates/merged_java_res
+29. academia/christine-project-2023/pillpal/build/app/intermediates/merged_jni_libs
+30. academia/christine-project-2023/pillpal/build/app/intermediates/merged_manifest
+31. academia/christine-project-2023/pillpal/build/app/intermediates/merged_manifests
+32. academia/christine-project-2023/pillpal/build/app/intermediates/merged_native_libs
+33. academia/christine-project-2023/pillpal/build/app/intermediates/merged_res
+34. academia/christine-project-2023/pillpal/build/app/intermediates/merged_res_blame_folder
+35. academia/christine-project-2023/pillpal/build/app/intermediates/merged_shaders
+36. academia/christine-project-2023/pillpal/build/app/intermediates/merged-not-compiled-resources
+37. academia/christine-project-2023/pillpal/build/app/intermediates/metadata_application_id
+38. academia/christine-project-2023/pillpal/build/app/intermediates/metadata_library_dependencies_report
+39. academia/christine-project-2023/pillpal/build/app/intermediates/mixed_scope_dex_archive
+40. academia/christine-project-2023/pillpal/build/app/intermediates/native_symbol_tables
+41. academia/christine-project-2023/pillpal/build/app/intermediates/navigation_json
+42. academia/christine-project-2023/pillpal/build/app/intermediates/optimized_processed_res
+43. academia/christine-project-2023/pillpal/build/app/intermediates/packaged_manifests
+44. academia/christine-project-2023/pillpal/build/app/intermediates/processed_res
+45. academia/christine-project-2023/pillpal/build/app/intermediates/project_dex_archive
+46. academia/christine-project-2023/pillpal/build/app/intermediates/runtime_symbol_list
+47. academia/christine-project-2023/pillpal/build/app/intermediates/sdk_dependency_data
+48. academia/christine-project-2023/pillpal/build/app/intermediates/shrunk_java_res
+49. academia/christine-project-2023/pillpal/build/app/intermediates/shrunk_processed_res
+50. academia/christine-project-2023/pillpal/build/app/intermediates/signing_config_versions
+51. academia/christine-project-2023/pillpal/build/app/intermediates/source_set_path_map
+52. academia/christine-project-2023/pillpal/build/app/intermediates/stripped_native_libs
+53. academia/christine-project-2023/pillpal/build/app/intermediates/sub_project_dex_archive
+54. academia/christine-project-2023/pillpal/build/app/intermediates/symbol_list_with_package_name
+55. academia/christine-project-2023/pillpal/build/app/intermediates/validate_signing_config
+56. academia/christine-project-2023/pillpal/build/app/kotlin
+57. academia/christine-project-2023/pillpal/build/app/kotlinToolingMetadata
+58. academia/christine-project-2023/pillpal/build/app/outputs
+59. academia/christine-project-2023/pillpal/build/app/snapshot
+60. academia/christine-project-2023/pillpal/build/app/tmp
+61. academia/christine-project-2023/pillpal/build/cloud_firestore
+62. academia/christine-project-2023/pillpal/build/dd911f7e5b07b3e63134ef004f9c077d
+63. academia/christine-project-2023/pillpal/build/firebase_auth
+64. academia/christine-project-2023/pillpal/build/firebase_core
+65. academia/christine-project-2023/pillpal/build/firebase_storage
+66. academia/christine-project-2023/pillpal/build/flutter_assets
+67. academia/christine-project-2023/pillpal/build/flutter_plugin_android_lifecycle
+68. academia/christine-project-2023/pillpal/build/image_picker_android
+69. academia/christine-project-2023/pillpal/build/kotlin
+70. academia/christine-project-2023/pillpal/build/shared_preferences_android
+71. academia/christine-project-2023/pillpal/build/web
+72. academia/christine-project-2023/pillpal/build/d04261ba
+73. academia/christine-project-2023/pillpal/ios
+74. academia/christine-project-2023/pillpal/lib
+75. academia/christine-project-2023/pillpal/linux
+76. academia/christine-project-2023/pillpal/macos
+77. academia/christine-project-2023/pillpal/test
+78. academia/christine-project-2023/pillpal/web
+79. academia/christine-project-2023/pillpal/windows
+80. academia/christine-project-2023/pillpal/.flutter-plugins
+81. academia/christine-project-2023/pillpal/.flutter-plugins-dependencies
+82. academia/christine-project-2023/pillpal/.gitignore
+83. academia/christine-project-2023/pillpal/.hintrc
+84. academia/christine-project-2023/pillpal/.metadata
+85. academia/christine-project-2023/pillpal/analysis_options.yaml
+86. academia/christine-project-2023/pillpal/database.rules.json
+87. academia/christine-project-2023/pillpal/firebase.json
+88. academia/christine-project-2023/pillpal/flutter_01.png
+89. academia/christine-project-2023/pillpal/flutter_02.png
+90. academia/christine-project-2023/pillpal/flutter_03.png
+91. academia/christine-project-2023/pillpal/pillpal.iml
+92. academia/christine-project-2023/pillpal/pubspec.lock
+93. academia/christine-project-2023/pillpal/pubspec.yaml
+94. academia/christine-project-2023/pillpal/README.md
+95. academia/christine-project-2023/PillPall
+96. academia/christine-project-2023/PNG
+97. academia/christine-project-2023/Smart-Pill-Dispenser
+98. academia/christine-project-2023/IMG-20231205-WA0005.jpg
+99. academia/christine-project-2023/IMG-20231205-WA0006.jpg
+100. academia/christine-project-2023/IMG-20231205-WA0009.jpg
+101. academia/christine-project-2023/IMG-20231205-WA0011.jpg
+102. academia/christine-project-2023/letter_p_3d_logo1_4x.png
+103. academia/christine-project-2023/pill_pal_qr_code.png
+104. academia/christine-project-2023/PillPal App features.docx
+105. academia/christine-project-2023/PillPall.zip
+106. academia/christine-project-2023/Products.csv
+107. academia/christine-project-2023/WhatsApp Image 2023-12-05 at 20.01.11_874f5f13.jpg
+108. academia/christine-project-2023/WhatsApp Video 2023-12-05 at 20.13.48_bfbb583a.mp4
+109. academia/christine-project-2023/y2mate.com - From Zero to PCB  using Altium Designer_1080pFHR.mp4
+110. academia/coursework
+111. academia/Formula Cheat Sheets
+112. academia/Industrial Attachment 2022
+113. academia/Industrial Attachment Files
+114. academia/lucy-project-2023
+115. academia/Medical Equipment TTechnical Modules
+116. academia/1629130306907_SMA 433 Partial Differential Equations II.pdf
+117. academia/2017_Visual_Brand_Identity_Design.pdf
+118. academia/2022 Sep -Dec TimeTable (6).xlsx
+119. academia/2023 May - Aug TimeTable.xlsx
+120. academia/38 Deferment leave form.pdf
+121. academia/39 Change of course 039.pdf
+122. academia/39 Re Admission Form.pdf
+123. academia/420 Medical Terminology Certificate.pdf
+124. academia/8085Setup.zip
+125. academia/A_low_cost_vein_detection_system_using_integrable_.pdf
+126. academia/A_Practical_Introduction_to_Python_Programming_Heinold.pdf
+127. academia/A91saqsop_1kihvpy_8uc_2.pdf
+128. academia/A-Beginners-Guide-To-Painting-Compressed.pdf
+129. academia/AL00003839.pdf
+130. academia/Analogue Electronics iii CAT 2 2022.docx
+131. academia/Analogue Electronics iii CAT 2 2022.pdf
+132. academia/ANN1.pdf
+133. academia/ANN2.pdf
+134. academia/Assignment Electromagnetics.docx
+135. academia/Assignment Electromagnetics.pdf
+136. academia/Assignment Mechanics of Machines.docx
+137. academia/Assignment Mechanics of Machines.pdf
+138. academia/Assignment Two Analogue Electronics iii 2022.pdf
+139. academia/Availiabilitity Notes Med Therm II.pdf
+140. academia/Biochemistry-of-hormones.pdf
+141. academia/Biomedical Instrumentation I - Course Outline.pdf
+142. academia/BOUNDARY CONDITIONS (1).pdf
+143. academia/BOUNDARY CONDITIONS.pdf
+144. academia/BSc. Medical Engineering Students_1.1.pdf
+145. academia/Calculus IV Class Notes.pdf
+146. academia/CALIBRATION OF MEASURING SENSORS AND INSTRUMENTS.pdf
+147. academia/CAT 1 UPDATED BIOMEASUREMENT make up.pdf
+148. academia/CAT 2 BIOMEASUREMENTS MARKING SCHEME (1).pdf
+149. academia/cb17-eng.pdf
+150. academia/Cents-Plan-Updated-11.19.pdf
+151. academia/CHAP 1 APPLICATIONS OF ELECTROMAGNETICS.pdf
+152. academia/CHAP 3 REVIEW OF VECTORS.pdf
+153. academia/Chapter_05.pdf
+154. academia/Color Symbolism Chart.pdf
+155. academia/Complete Book of Chess Strategy Grandmaster Techniques from A to Z.pdf
+156. academia/COMPONENTS OF BIOMEDICAL MEASUREMENT SYSTEM.pdf
+157. academia/CRO.pptx
+158. academia/cyber_security_for_beginners_ebook.pdf
+159. academia/DEC EXAM TT.docx
+160. academia/Designing-Brand-Identity.pdf
+161. academia/Developing Apps for Windows 11.pdf
+162. academia/Digital Electronics II Assignment.docx
+163. academia/Digital Electronics II Assignment.pdf
+164. academia/Dynamic characteristics of instruments.pptx
+165. academia/EasyBreakfastRecipes.pdf
+166. academia/EIT 4417_EIT 4350_COURSE OUTLINE.pdf
+167. academia/ELECTROMAGNETICS  EEE4333.docx
+168. academia/EME 4355 Engineering Thermodynamics II assignment (1).docx
+169. academia/EME 4355 Engineering Thermodynamics II assignment.docx
+170. academia/EME 4355 Engineering Thermodynamics II.docx
+171. academia/EME 4356 MECHANICS OF MACHINES-BSMD (1).docx
+172. academia/EME 4356 MECHANICS OF MACHINES-BSMD.docx
+173. academia/EME 4356-Asst II.docx
+174. academia/EMEC 4356 MECHANICS OF MACHINES-#1.pdf
+175. academia/Engineering Thermodynamics II Assignment.docx
+176. academia/Engineering Thermodynamics II Assignment.pdf
+177. academia/Engineering Thermodynamics text.pdf
+178. academia/Fee Statement Dec 2021
+179. academia/Fee_Statement_Sconl_Peter_2023_S1.pdf
+180. academia/Fluoroscope Notes.pdf
+181. academia/Fluoroscope.pdf
+182. academia/Fluoroscopy 2021.pdf
+183. academia/Fluoroscopy 2021.pptx
+184. academia/Gas mixtures Med Therm II.pdf
+185. academia/Generators 4.pptx
+186. academia/Guided_Drawing_Sketchbook.pdf
+187. academia/Guide-to-Common-Medical-Terminology.pdf
+188. academia/Handwriting_Strokes_manuscript_upper_and_lowercase.pdf
+189. academia/Higher_Engineering_Mathematics_(Sixth_Edition).pdf
+190. academia/Human_digestive_system.pdf
+191. academia/Important Link to DE.docx
+192. academia/In.Easy.Steps.Cplusplus.Programming.in.easy.steps.5th.Edition.pdf
+193. academia/Inter Intra Faculty Transfer Form.pdf
+194. academia/Interfacing ADC-DAC.pdf
+195. academia/Introduction_to_X-Ray_Equipment_Operation.pdf
+196. academia/IR VF Mobile App integration.pdf
+197. academia/JOINT.pdf
+198. academia/JOY MURUGI-3 (1)[1].docx
+199. academia/Lab Report - Fluid Mechanics II.docx
+200. academia/Lab Report - Mechanics of Machines.docx
+201. academia/Lab Report - Mechanics of Machines.pdf
+202. academia/Lab Report - MedicaL Optics - Attenuation in Fiber Optics.docx
+203. academia/Lab Report - MedicaL Optics - Attenuation in Fiber Optics.pdf
+204. academia/Lab Report - MedicaL Optics - Numerical Aperture.docx
+205. academia/Lab Report - MedicaL Optics - Numerical Aperture.pdf
+206. academia/Lab Report - MedicaL Optics - Pin Photodiode.docx
+207. academia/Lab Report - MedicaL Optics - Pin Photodiode.pdf
+208. academia/lecture_notes_266.pdf
+209. academia/Lesson-12.pdf
+210. academia/LS_18_recipes_FINAL.pdf
+211. academia/Male_reproductive_system.pdf
+212. academia/March2022Supplementary_g.pdf
+213. academia/Mechanics of Machines CAT II.docx
+214. academia/Mechanics of Machines CAT II.pdf
+215. academia/Medical Imaging - Brainstorming.pdf
+216. academia/Medical Optics Compressed.pdf
+217. academia/medical optics final.pdf
+218. academia/Medical Optics Full.pdf
+219. academia/Medical Optics part 1.pdf
+220. academia/Memories.doc
+221. academia/NEURAL ASSGN..docx
+222. academia/Neural Networks Assignment.docx
+223. academia/NEURAL NETWORKS TEXT BOOK.pdf
+224. academia/ode.pdf
+225. academia/ONLINE1.pptx
+226. academia/Operations Research.pdf
+227. academia/ordinary_differential_equations_lecture_notes.pdf
+228. academia/Oscillators-module-03.pdf
+229. academia/Part 2, 1st order O.D.E notes.pdf
+230. academia/Part 3, 2nd order O.D.E notes.pdf
+231. academia/Part 5, other methods of solving O.D.E notes.pdf
+232. academia/Peter Onserio - CV 2021.docx
+233. academia/PRESSURE MEASUREMENT.pdf
+234. academia/Projection Radiography.pdf
+235. academia/psychrometry Med therm II.pdf
+236. academia/python.pdf
+237. academia/python_beginners.pdf
+238. academia/Radiographic science for Technologist.pdf
+239. academia/REPORT WRITING - APA STYLE.pdf
+240. academia/reportServlet
+241. academia/REPUTATION Law number 5.txt
+242. academia/r-k-bansalstrength-of-materials-4th-edengineersdaily-com.pdf
+243. academia/Sconl Peter_Cover Letter.pdf
+244. academia/SMA 432.pdf
+245. academia/SMA 433 - PARTIAL DIFFERENTIAL EQUATIONS II.docx
+246. academia/Solid Mechanics.zip
+247. academia/SOLIDWORKS_Introduction_EN.pdf
+248. academia/STACY INDUSTRIAL ATTACHMENT 1 REPORT.pdf
+249. academia/Static_and_Dynamic_Characteristics_of_Measurement_System (1).pdf
+250. academia/Stellarium User Guide.lnk
+251. academia/Temperature lesson.pptx
+252. academia/The_Guided_Sketchbook_That_Teaches_You_H.pdf
+253. academia/TOPIC 4 ARTIFICIAL NEURAL NETWORKS OVERVIEW.pdf
+254. academia/TOPIC1_INTRODUCTION TO NEURAL NETWORKS.pdf
+255. academia/TOPIC2_ORIGIN OF NEURAL NETWORKS.pdf
+256. academia/TOPIC3_BIOLOGICAL NEURAL NETWORK.pdf
+257. academia/TOPIC5_TYPES OF NEURAL NETWORKS.pdf
+258. academia/TOPIC6_TYPES OF LEARNING ALGORITHMS FOR NEURAL NETWORKS.pdf
+259. academia/TUM Wifi Password.txt
+260. academia/tutorial.pdf
+261. academia/WhatsApp Image 2021-11-29 at 8.43.22 AM.jpeg
+262. academia/WhatsApp Image 2021-11-29 at 8.43.51 AM.jpeg
+263. academia/WhatsApp Image 2021-11-29 at 8.43.52 AM.jpeg
+264. academia/WhatsApp Image 2021-11-29 at 8.56.29 AM.jpeg
+265. academia/WhatsApp Image 2021-11-29 at 8.56.30 AM.jpeg
+266. academia/WhatsApp Image 2021-12-02 at 1.23.01 PM (1).jpeg
+267. academia/WhatsApp Image 2021-12-02 at 1.23.01 PM.jpeg
+268. academia/WhatsApp Image 2021-12-02 at 1.23.02 PM (1).jpeg
+269. academia/WhatsApp Image 2021-12-02 at 1.23.02 PM.jpeg
+270. academia/WhatsApp Image 2021-12-02 at 1.23.04 PM.jpeg
+271. academia/WhatsApp Image 2021-12-02 at 1.23.06 PM.jpeg
+272. academia/WhatsApp Image 2021-12-07 at 12.07.45 AM.jpeg
+273. academia/WhatsApp Image 2021-12-09 at 5.26.26 PM.jpeg
+274. academia/WhatsApp Image 2021-12-09 at 5.26.27 PM (1).jpeg
+275. academia/WhatsApp Image 2021-12-09 at 5.26.27 PM.jpeg
+276. academia/WhatsApp Unknown 2021-12-03 at 6.44.57 AM.zip
+277. academia/X-ray film processor.pdf
+278. academia/X-ray film processor.pptx
+279. academia/X-ray Generators 2.pdf
+280. academia/X-ray Machine 2023.pptx
