@@ -8,4 +8,4 @@ for temporary changes, please commit to the corresponding branch
 
 # Front end
 
-the back end would be covered in openarq/auth
+the back end would be covered in openarq/auth... today we are making just a simple addition to the readme file
